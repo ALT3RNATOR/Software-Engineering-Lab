@@ -1,4 +1,4 @@
-﻿# Software-Engineering-Lab
+﻿# Software-Engineering-Labs
 
 <!-- Trigger CI workflow -->
 
